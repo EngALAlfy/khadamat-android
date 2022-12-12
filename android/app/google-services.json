@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "12480491139",
+    "project_id": "khadamat-2f94b",
+    "storage_bucket": "khadamat-2f94b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12480491139:android:2ce03f0c2c596fcdbab5b6",
+        "android_client_info": {
+          "package_name": "com.alalfy.khadamat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12480491139-0hiukvjbtk2te0jsrr2guggu5v6bk9rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alalfy.khadamat_app",
+            "certificate_hash": "7a4a5787066b83a76cb08979e3ec134af0849580"
+          }
+        },
+        {
+          "client_id": "12480491139-m0impuajibmbpmb8lhfri1anu055jfgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alalfy.khadamat_app",
+            "certificate_hash": "77771a1c44fe402180b844ee36c871e75871dc2d"
+          }
+        },
+        {
+          "client_id": "12480491139-v076oibg98cfo2484c80nvo2hvajukqe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alalfy.khadamat_app",
+            "certificate_hash": "d1179d769d5fafb7fac7b613283adaad6c539b0b"
+          }
+        },
+        {
+          "client_id": "12480491139-0gnb4v1lj4o561t3ci3204jgeagkeh1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6mgoVKj2KQ1K3VjBe2f2UWXGV_V_-in4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12480491139-0gnb4v1lj4o561t3ci3204jgeagkeh1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

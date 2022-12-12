@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">khadamat</string>
+    <string name="facebook_app_id">980048466090715</string>
+    <string name="fb_login_protocol_scheme">fb980048466090715</string>
+</resources>
